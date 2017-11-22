@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gate" />
+        <module name="ppay-admin" />
+        <module name="ppay-common" />
+        <module name="ppay-config" />
+        <module name="ppay-dashboard" />
+        <module name="ppay-eureka" />
+        <module name="ppay-event-common" />
+        <module name="ppay-tcc" />
+        <module name="ppay-zipkin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gate" target="1.8" />
+      <module name="ppay" target="1.8" />
+      <module name="ppay-admin" target="1.8" />
+      <module name="ppay-common" target="1.8" />
+      <module name="ppay-config" target="1.8" />
+      <module name="ppay-dashboard" target="1.8" />
+      <module name="ppay-eureka" target="1.8" />
+      <module name="ppay-event-common" target="1.8" />
+      <module name="ppay-tcc" target="1.8" />
+      <module name="ppay-zipkin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gate/gate.iml" filepath="$PROJECT_DIR$/gate/gate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppay.iml" filepath="$PROJECT_DIR$/ppay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppay-admin/ppay-admin.iml" filepath="$PROJECT_DIR$/ppay-admin/ppay-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppay-common/ppay-common.iml" filepath="$PROJECT_DIR$/ppay-common/ppay-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppay-config/ppay-config.iml" filepath="$PROJECT_DIR$/ppay-config/ppay-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppay-dashboard/ppay-dashboard.iml" filepath="$PROJECT_DIR$/ppay-dashboard/ppay-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppay-eureka/ppay-eureka.iml" filepath="$PROJECT_DIR$/ppay-eureka/ppay-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppay-event-common/ppay-event-common.iml" filepath="$PROJECT_DIR$/ppay-event-common/ppay-event-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppay-tcc/ppay-tcc.iml" filepath="$PROJECT_DIR$/ppay-tcc/ppay-tcc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppay-zipkin/ppay-zipkin.iml" filepath="$PROJECT_DIR$/ppay-zipkin/ppay-zipkin.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ppay-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ppay-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ppay-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ppay-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ppay-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ppay-event-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ppay-tcc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ppay-zipkin" charset="UTF-8" />
+  </component>
+</project>
